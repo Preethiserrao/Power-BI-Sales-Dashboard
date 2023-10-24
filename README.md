@@ -1,1 +1,2 @@
-# Power-BI-Sales-Dashboard
+# Power-BI-Sales-Dashboard 
+In this report we have analyzed and presented comprehensive insights into sales, profit, orders, profit margin, and various comparisons. which aims to provide a clear understanding of key performance indicators and trends using Power BI. Data Analysis Expressions (DAX) is used to create calculated columns, measures, and calculated tables to perform complex calculations and aggregations.
